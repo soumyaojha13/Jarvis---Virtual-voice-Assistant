@@ -1,0 +1,4 @@
+[33mbb55d8a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Refactor: Replaced all hardcoded API keys with environment variables in main.py. Also updated README and added .gitignore.
+[33m3d3dd63[m Fix: Replaced hardcoded API keys with environment variables and updated README.
+[33mcbfc2a0[m Fix: Replaced hardcoded API keys with environment variables and updated README.
+[33m7c55c26[m Initial commit: Added README, requirements, LICENSE, and .gitignore. Updated README for main.py.

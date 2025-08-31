@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Environments
+.env
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+thumbs.db
+
+# Temporary files
+temp.mp3
+
+
+# Ignore other repos
+API-Weather-Python-Tkinter-Program/
+EDUportal-/
+Flask_Expense_App-1/
+Flask_Expense_App-2/
+Flask_Expense_App/
+bug_tracker_api/
+jarvis - Copy/
+jarvis/
+
