@@ -42,7 +42,8 @@ Requests
 🚀 Getting Started
 1. Clone the Repository
 
-git clone https://github.com/soumyaojha13/Jarvis---Virtual-Assistant
+git clone https://github.com/soumyaojha13/Jarvis---Virtual-voice-Assistant
+
 
 cd Jarvis---Virtual-Assistant
 
